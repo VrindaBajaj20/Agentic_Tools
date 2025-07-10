@@ -17,6 +17,6 @@ A modular framework for building agentic systems that leverage custom tools, ext
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/Agentic-Tool.git
+git clone https://github.com/VrindaBajaj20e/Agentic-Tool.git
 cd Agentic-Tool
 pip install -r requirements.txt
